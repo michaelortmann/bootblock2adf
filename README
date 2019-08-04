@@ -1,0 +1,26 @@
+Description:
+
+  bootblock2adf is an amiga bootblock.o to bootblock.adf with checksum tool.
+
+  Compatible with python 2 and 3.
+
+Usage:
+
+  bootblock2adf <bootblock.o> <bootblock.adf>
+
+License:
+
+  MIT License
+  Copyright (c) 2014 Michael Ortmann
+
+Website:
+
+  https://gitlab.com/mortmann/bootblock2adf
+
+Links and Thanks to everyone involved there:
+
+  http://git.ciarang.com/p/cads/source/tree/master/scripts/builddisk.py (dead link)
+  https://gist.github.com/deplinenoise/1008772
+
+Enjoy,
+Michael
